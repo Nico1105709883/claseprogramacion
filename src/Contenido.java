@@ -1,6 +1,6 @@
 public class Contenido {
     public static void main(String[] args) {
-        System.out.printf("'%S'","Conceptos basicos de programacion \n \n");
+        System.out.printf("'%S'", "Conceptos basicos de programacion \n \n");
         System.out.println("Algoritmo: Es un conjunto de pasos para una determinada tarea.\n");
         System.out.println("Código: Conjunto de palabras o símbolos que contienen instrucciones para la computadora.\n");
         System.out.println("Código fuente: código de un programa. La computadora lo usa para generar una versión del programa que es capaz de procesar.\n ");
@@ -22,3 +22,4 @@ public class Contenido {
         System.out.println("Shell: ventana, normalmente negra, para manipular el sistema operativo a través de la línea de comandos.\n");
         System.out.println("Plugin: un extensión de código que se puede agregar a un código en el que estás trabajando. ");
     }
+}
